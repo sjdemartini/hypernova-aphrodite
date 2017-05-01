@@ -59,7 +59,7 @@
     "eslint-plugin-react": "^6.9.0",
     "hypernova": "^2.0.0",
     "istanbul": "^0.4.5",
-    "jsdom": "^9.9.1",
+    "jsdom": "^10.1.0",
     "mocha": "^3.2.0",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
